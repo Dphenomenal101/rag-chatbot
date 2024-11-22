@@ -21,14 +21,14 @@ import { Textarea } from "../ui/textarea";
 
 const suggestedActions = [
   {
-    title: "What is our",
-    label: "vacation policy?",
-    action: "What is our vacation policy?",
+    title: "How do I get started",
+    label: "with Ragie's Gmail Connector?",
+    action: "How do I get started with Ragie's Gmail Connector?",
   },
   {
-    title: "What are the expectations",
-    label: "for work hours?",
-    action: "What are the expectations for work hours?",
+    title: "I have some user data",
+    label: "how do I partition it?",
+    action: "I have some user data how do I partition them?",
   },
 ];
 
